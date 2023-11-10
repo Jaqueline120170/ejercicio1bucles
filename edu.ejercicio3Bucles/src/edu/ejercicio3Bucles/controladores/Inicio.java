@@ -1,4 +1,4 @@
-package edu.ejercicio3Bucles.controladores;
+ package edu.ejercicio3Bucles.controladores;
 
 import java.util.Scanner;
 import edu.ejercicio3Bucles.servicios.MenuImplementacion;
